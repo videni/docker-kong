@@ -1,4 +1,4 @@
-FROM kong:0.12.3
+FROM kong
 
 # get ContainerPilot release
 ENV CONTAINERPILOT_VERSION 2.7.2
